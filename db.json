@@ -1,0 +1,2133 @@
+{
+  "Mens": [
+    {
+      "id": 1,
+      "categories": "shirt",
+      "size": "39, 40, 42, 44",
+      "title": "Men Blue Regular Fit Printed Casual Shirt",
+      "price": 699,
+      "gender": "men",
+      "description": "Green and White printed casual shirt, has a spread collar, short sleeves, button placket, curved hem, and 1 patch pocket",
+      "brand": "Roadster",
+      "color": "navyBlue",
+      "discount": 40,
+      "off_price": 1049,
+      "images": [
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1364628/2016/8/31/11472636737718-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-1.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1364628/2016/8/31/11472636737673-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1364628/2016/8/31/11472636737673-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1364628/2016/8/31/11472636737656-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-4.jpg"
+      ],
+      "rating": 3.9
+    },
+    {
+      "id": 2,
+      "categories": "shirt",
+      "size": "39, 40, 42, 44",
+      "title": "Men Blue Slim Fit Solid Casual Shirt",
+      "price": 579,
+      "gender": "men",
+      "description": "Blue solid casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem",
+      "brand": "HERE&NOW",
+      "color": "green",
+      "discount": 42,
+      "off_price": 999,
+      "images": [
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2290028/2018/2/7/11517989836087-HIGHLANDER-Men-Blue-Slim-Fit-Solid-Casual-Shirt-4461517989835897-1.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2290028/2018/2/7/11517989835985-HIGHLANDER-Men-Blue-Slim-Fit-Solid-Casual-Shirt-4461517989835897-5.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2290028/2018/2/7/11517989836063-HIGHLANDER-Men-Blue-Slim-Fit-Solid-Casual-Shirt-4461517989835897-2.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2290028/2018/2/7/11517989836001-HIGHLANDER-Men-Blue-Slim-Fit-Solid-Casual-Shirt-4461517989835897-4.jpg"
+      ],
+      "rating": 4.1
+    },
+    {
+      "id": 3,
+      "categories": "kurta",
+      "size": "39, 40, 42, 44",
+      "title": "Men Grey & Blue Self Design Kurta with Churidar & Nehru Jacket",
+      "price": 2199,
+      "gender": "men",
+      "description": "White solid casual Kurta, has a spread collar, button placket, 1 pocket, long sleeves, curved hem",
+      "brand": "Clovia",
+      "color": "white",
+      "discount": 60,
+      "off_price": 5499,
+      "images": [
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6518468/2018/5/23/c18ee8eb-06f6-4d10-8f4a-680ac10fccf21527055151093-Sojanya-Since-1958-Grey-Silk-Kurta-Pyjama--Blue-Printed-Nehru-Jacket-SET-4231527055150856-1.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6518468/2018/5/23/81b26584-a36d-414d-9653-195b978884141527055151039-Sojanya-Since-1958-Grey-Silk-Kurta-Pyjama--Blue-Printed-Nehru-Jacket-SET-4231527055150856-3.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6518468/2018/5/23/f6d3d7cd-1acc-4e28-b8ee-29e5d9cec46c1527055151075-Sojanya-Since-1958-Grey-Silk-Kurta-Pyjama--Blue-Printed-Nehru-Jacket-SET-4231527055150856-2.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6518468/2018/5/23/83986b07-a78e-4999-b2bd-7bacbd5532411527055151001-Sojanya-Since-1958-Grey-Silk-Kurta-Pyjama--Blue-Printed-Nehru-Jacket-SET-4231527055150856-4.jpg"
+      ],
+      "rating": 5.9
+    },
+    {
+      "id": 4,
+      "categories": "tshirt",
+      "size": "39, 40, 42, 44",
+      "title": "Men White & Navy Blue Pure Cotton Striped Polo Collar T-shirt",
+      "price": 359,
+      "gender": "men",
+      "description": "White and navy blue Tshirt for men",
+      "brand": "Mast & Harbour",
+      "color": "white",
+      "discount": 10,
+      "off_price": 899,
+      "images": [
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14350098/2021/6/18/8e12d936-e770-48d3-a285-b72c4c1c74391623996957697-Mast--Harbour-Men-Tshirts-3781623996957278-4.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14350098/2021/6/18/db2efb33-c1a0-40b2-8020-fa5eadad32ea1623996957756-Mast--Harbour-Men-Tshirts-3781623996957278-1.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14350098/2021/6/18/00f807c0-7a9e-4887-883d-400a542abc161623996957677-Mast--Harbour-Men-Tshirts-3781623996957278-5.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14350098/2021/6/18/c72642c3-92a0-4495-8a64-31a49445206b1623996957736-Mast--Harbour-Men-Tshirts-3781623996957278-2.jpg"
+      ],
+      "rating": 3.9
+    },
+    {
+      "id": 5,
+      "categories": "short",
+      "size": "39, 40, 42, 44",
+      "title": "Men Navy Blue Solid Slim Fit Chino Shorts",
+      "price": 686,
+      "gender": "men",
+      "description": "Black men's short",
+      "brand": "Dressberry",
+      "color": "black",
+      "discount": 45,
+      "off_price": 1249,
+      "images": [
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2018/12/7/76a1fe8c-86c9-4ff1-bd68-2d333cfc03831544132056588-1.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2018/12/7/2bf7f927-99ec-4670-88ae-8e3ef0b9dfb81544132056680-4.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2018/12/7/60cd97ef-9491-4742-8446-28887c9dc4b51544132056702-5.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2018/12/7/76a1fe8c-86c9-4ff1-bd68-2d333cfc03831544132056588-1.jpg"
+      ],
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "categories": "shirt",
+      "size": "39, 40, 42, 44",
+      "title": "Men Pink Slim Fit White Vertical Stripes Formal Shirt",
+      "price": 2980,
+      "gender": "men",
+      "description": "Pink white vertical stripes opaque formal  shirt ,has a spread collar, button placket, patch pocket, long sleeve  straight hem.",
+      "brand": "Celfie Design",
+      "color": "pink",
+      "discount": 11,
+      "off_price": 3349,
+      "images": [
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/19/3ec609b9-d503-4018-9b44-8973a43817391624115526512-1.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/19/4f34f640-5fff-4629-9734-137a56c705701624115526552-5.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/19/83e7a941-1882-4541-b740-995a5565047f1624115526542-4.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/19/91bae618-50fc-4547-b2d9-a1f5387ffd2f1624115526522-2.jpg"
+      ],
+      "rating": 3.9
+    },
+    {
+      "id": 7,
+      "categories": "kurta",
+      "size": "39, 40, 42, 44",
+      "title": "Men Red & Green Striped Pure Cotton Kurta",
+      "price": 854,
+      "gender": "men",
+      "description": "Red solid casual Kurta, has a spread collar, button placket, 1 pocket, long sleeves, curved hem",
+      "brand": "KALINI",
+      "color": "red",
+      "discount": 55,
+      "off_price": 1899,
+      "images": [
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13238920/2021/8/6/67ad0999-a2f1-4251-a370-207fc1bdad4d1628241598838-Anouk-Men-Red-Striped-Kurta-6691628241598334-3.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13238920/2021/8/6/eeb519eb-0f0c-4c75-b74c-8d629c055cd71628241598817-Anouk-Men-Red-Striped-Kurta-6691628241598334-4.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13238920/2021/8/6/eeb519eb-0f0c-4c75-b74c-8d629c055cd71628241598817-Anouk-Men-Red-Striped-Kurta-6691628241598334-4.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13238920/2021/8/6/a07ddf2e-c77f-4c3a-8640-d2cbb78123c11628241598859-Anouk-Men-Red-Striped-Kurta-6691628241598334-2.jpg"
+      ],
+      "rating": 3.9
+    },
+    {
+      "id": 8,
+      "categories": "shoes",
+      "size": "39, 40, 42, 44",
+      "title": "Men Tan Mouse High Cushioning Running Shoes",
+      "price": 749,
+      "gender": "men",
+      "description": "Textured and patterned outsole",
+      "brand": "Roadster",
+      "color": "red",
+      "discount": 25,
+      "off_price": 999,
+      "images": {
+        "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15497558/2021/9/16/03c95244-17fa-4509-a49a-0c3eb25b40171631785441918CLYMBMenTan1.jpg",
+        "image2": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15497558/2021/9/16/9456b860-90b7-4b68-9bbf-2fbeead4b4e71631785441910CLYMBMenTan2.jpg",
+        "image3": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15497558/2021/9/16/80d1d0fd-7309-4f20-9122-2cd39a8e09ee1631785441586CLYMBMenTan5.jpg",
+        "image4": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15497558/2021/9/16/77547986-1f86-4b62-9687-b6f0333609781631785442064CLYMBMenTan7.jpg"
+      },
+      "rating": 2.9
+    },
+    {
+      "id": 9,
+      "categories": "shoes",
+      "size": "39, 40, 42, 44",
+      "title": "Unisex Black Precision V Basketball Shoes",
+      "price": 4599,
+      "gender": "men",
+      "description": "",
+      "brand": "Roadster",
+      "color": "black",
+      "discount": 25,
+      "off_price": 4999,
+      "images": {
+        "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/73fc1074-0a84-4845-b452-9a6a080be4cb1635336510062-Nike-Precision-5-Basketball-Shoes-5381635336509646-1.jpg",
+        "image2": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/2cd4e8e1-4b3c-4b45-895a-ac5144e824b81635336510034-Nike-Precision-5-Basketball-Shoes-5381635336509646-4.jpg",
+        "image3": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/99432808-e710-43b9-ab8e-718c9b1a1a001635336510023-Nike-Precision-5-Basketball-Shoes-5381635336509646-5.jpg",
+        "image4": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/99432808-e710-43b9-ab8e-718c9b1a1a001635336510023-Nike-Precision-5-Basketball-Shoes-5381635336509646-5.jpg"
+      },
+      "rating": 3.2
+    },
+    {
+      "id": 10,
+      "categories": "tshirt",
+      "size": "39, 40, 42, 44",
+      "title": "Men Light Blue Logo Printed Slim Fit Casual T-shirt",
+      "price": 3299,
+      "gender": "men",
+      "description": "Blue T-shirt for men",
+      "brand": "Roadster",
+      "color": "blue",
+      "discount": 10,
+      "off_price": 3399,
+      "images": [
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14590966/2021/9/29/3ae9949f-002c-4329-9590-7182c6ebd1421632910116761-Calvin-Klein-Jeans-Men-Tshirts-4161632910116207-1.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14590966/2021/9/29/eaf82df0-f587-43c2-b857-d27db4e92f7e1632910116752-Calvin-Klein-Jeans-Men-Tshirts-4161632910116207-2.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14590966/2021/9/29/99f02959-6e3a-4693-a58a-2e70e98148ba1632910116735-Calvin-Klein-Jeans-Men-Tshirts-4161632910116207-4.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14590966/2021/9/29/0e145eb2-0cb6-4001-9a5f-24822cd773b31632910116725-Calvin-Klein-Jeans-Men-Tshirts-4161632910116207-5.jpg"
+      ],
+      "rating": 4.9
+    },
+    {
+      "id": 11,
+      "categories": "shirt",
+      "size": "39, 40, 42, 44",
+      "title": "Men Olive Green Solid Active Bomber Jacket",
+      "price": 2399,
+      "gender": "men",
+      "description": "Lightweight jacket provides insulation and helps maintain body temperature in mild cold Breathable fabric helps sweat dry fast.",
+      "brand": "roadster",
+      "color": "Olive Green",
+      "discount": 40,
+      "off_price": 1600,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4453297/2019/12/2/77b5d9e0-8d65-4a36-94e7-290ed271db6b1575267599079-HRX-by-Hrithik-Roshan-Men-Olive-Green-Solid-Active-Bomber-Ja-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4453297/2019/12/2/fff8b47c-4590-4bf1-9dbd-b8cc23f0eef91575267599038-HRX-by-Hrithik-Roshan-Men-Olive-Green-Solid-Active-Bomber-Ja-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4453297/2019/12/2/f36c883f-a15d-4dfe-a738-703e75c05cae1575267598892-HRX-by-Hrithik-Roshan-Men-Olive-Green-Solid-Active-Bomber-Ja-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4453297/2019/12/2/e4423e58-eb11-4a71-8fb9-5adb67da52391575267598934-HRX-by-Hrithik-Roshan-Men-Olive-Green-Solid-Active-Bomber-Ja-4.jpg"
+      ],
+      "ratings": 4.3
+    },
+    {
+      "id": 12,
+      "category": "Men's Clohting",
+      "size": "39, 40, 42, 44",
+      "title": "Men Maroon Solid Hooded Sweatshirt",
+      "price": 1649,
+      "gender": "men",
+      "description": "Maroon solid sweatshirt, has a hood, two pockets, long sleeves, zip closure, straight hem",
+      "brand": "HRX",
+      "color": "red",
+      "discount": 45,
+      "off_price": 1350,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11846948/2020/9/17/b431435b-1034-4ae2-b8fa-327e93ed6c1e1600332870635-HRX-by-Hrithik-Roshan-Men-Sweatshirts-1831600332868391-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11846948/2020/9/17/4244372a-07e6-4985-be31-a1bd401704391600332870552-HRX-by-Hrithik-Roshan-Men-Sweatshirts-1831600332868391-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11846948/2020/9/17/3c457868-4ff1-425f-ab2f-b2a6ca208d8f1600332870479-HRX-by-Hrithik-Roshan-Men-Sweatshirts-1831600332868391-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11846948/2020/9/17/654b3cab-e573-48d3-ab19-39dfb5d47cf11600332870711-HRX-by-Hrithik-Roshan-Men-Sweatshirts-1831600332868391-2.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 13,
+      "category": "Men,s",
+      "size": "39, 40, 42, 44",
+      "title": "Men Black Solid Rapid Dry Running Joggers",
+      "price": 1044,
+      "gender": "men",
+      "description": "Take the gym look outdoors with the HRX Men's Active Track Pants. Designed with sweat wicking technology, it'll keep you cool and dry all day long",
+      "brand": "HRX",
+      "color": "black",
+      "discount": 45,
+      "off_price": 855,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7610386/2019/1/8/788b1ef1-331a-45ac-b225-f205f35063901546937930482-HRX-Active-by-Hrithik-Roshan-Men-Black-Solid-Rapid-dry-Runni-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7610386/2019/1/8/06e2a088-e851-4ede-a16b-bedb83203b611546937930451-HRX-Active-by-Hrithik-Roshan-Men-Black-Solid-Rapid-dry-Runni-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7610386/2019/1/8/cc68f4be-49d6-434c-b468-d47772ae4aa11546937930409-HRX-Active-by-Hrithik-Roshan-Men-Black-Solid-Rapid-dry-Runni-6.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7610386/2019/1/8/39fcb069-2ba6-4cc0-b47b-21ab1f4fcbe91546937930496-HRX-Active-by-Hrithik-Roshan-Men-Black-Solid-Rapid-dry-Runni-2.jpg"
+      ],
+      "ratings": 3.8
+    },
+    {
+      "id": 14,
+      "category": "Men's Clothing",
+      "size": "39, 40, 42, 44",
+      "title": "Men Teal Blue Printed T-shirt",
+      "price": 419,
+      "gender": "men",
+      "description": "This season set a sporty fashion trend with the HRX Men's Athleisure T-shirt. This striped casual T-shirt can be worn on its own or layered under a jacket or a hoodie.",
+      "brand": "HRX",
+      "color": "blue",
+      "discount": 40,
+      "off_price": 180,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1700871/2020/1/22/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1700871/2020/1/22/ee026dfd-53d5-431f-8f49-793d1b1a3ca91579692118057-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1700871/2020/1/22/5a6da9ac-d32e-4710-9b6d-569b454560931579692118120-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1700871/2020/1/22/630076d1-bddd-4bd8-825a-f53a545c38481579692117944-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-4.jpg"
+      ],
+      "ratings": 4.3
+    },
+    {
+      "id": 15,
+      "category": "Men's Clothing",
+      "size": "39, 40, 42, 44",
+      "title": "Men Grey Solid Hooded Bomber Jacket",
+      "price": 2199,
+      "gender": "men",
+      "description": "The HRX Men's Active Jacket is just what you need to layer over a t-shirt for your morning run. It keeps you warm and protected from the winds so that the weather doesn't interfere with your run.",
+      "brand": "HRX",
+      "color": "black",
+      "discount": 45,
+      "off_price": 1800,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11846958/2020/8/6/267a39c1-c9f0-4f08-aeba-3d74547b6c051596693087479-HRX-by-Hrithik-Roshan-Men-Jackets-8291596693079279-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11846958/2020/8/6/9f58a150-a21b-4142-a31b-a48420f8b62f1596693085956-HRX-by-Hrithik-Roshan-Men-Jackets-8291596693079279-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11846958/2020/8/6/46897093-2fd2-4377-8e24-728c6df033ea1596693084361-HRX-by-Hrithik-Roshan-Men-Jackets-8291596693079279-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11846958/2020/8/6/d956e5e4-6090-4bc2-927c-7ab397c3f26f1596693082577-HRX-by-Hrithik-Roshan-Men-Jackets-8291596693079279-6.jpg"
+      ],
+      "ratings": 4.0
+    },
+    {
+      "id": 16,
+      "category": "Men's Clothing",
+      "size": "39, 40, 42, 44",
+      "title": "Men Blue Relaxed Fit Hoodie",
+      "price": 1499,
+      "gender": "men",
+      "description": "Hoodie in sweatshirt fabric made from a cotton blend. Relaxed fit with a lined, drawstring hood, long sleeves, kangaroo pocket and ribbing at the cuffs and hem. Soft brushed inside.",
+      "brand": "H&M",
+      "color": "blue",
+      "discount": "10",
+      "off_price": 1500,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15746172/2021/10/7/a621b7fd-babb-4bb3-940e-b16afb7947d31633609833495HMMenBlueRelaxedFitHoodie1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15746172/2021/10/7/b019b315-fb56-481a-9de4-97f588b636551633609832286HMMenBlueRelaxedFitHoodie2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15746172/2021/10/7/daca690f-f36d-4b61-b5f3-c9e9acf7a1f61633609832145HMMenBlueRelaxedFitHoodie3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15746172/2021/10/7/dbe47737-1d80-4cab-9f03-ee8cb32540cb1633609833304HMMenBlueRelaxedFitHoodie4.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 17,
+      "category": "Men's Clothing",
+      "size": "39, 40, 42, 44",
+      "title": "Men Grey Relaxed Fit Sweatshirt",
+      "price": 799,
+      "gender": "men",
+      "description": "Grey solid sweatshirt has a round neck, long sleeves, closure, straight hem",
+      "brand": "H&M",
+      "color": "black",
+      "discount": 40,
+      "off_price": 1299,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15611412/2021/9/29/9b684f64-c8a6-4808-952e-604516fa5a001632884361405HMMenGreyRelaxedFitSweatshirt1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15611412/2021/9/29/df8910b9-bf54-454d-94e4-abab395291f01632884361459HMMenGreyRelaxedFitSweatshirt2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15611412/2021/9/29/b30b1a59-fcb4-4738-9829-15211df1f9601632884361471HMMenGreyRelaxedFitSweatshirt3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15611412/2021/9/29/6b76621f-ad2d-41a7-ae2f-393b22e5776f1632884361483HMMenGreyRelaxedFitSweatshirt4.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 18,
+      "category": "Men's Footwear",
+      "size": "39, 40, 42, 44",
+      "title": "Men White Trainers",
+      "price": 1999,
+      "gender": "men",
+      "description": "Trainers in imitation leather with a contrasting colour heel cap. Padded top edge and a tongue and lacing at the front. Linings and insoles in piqu and rubber soles that are patterned underneath.",
+      "brand": "H&M",
+      "color": "white",
+      "discount": 10,
+      "off_price": 2199,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630218/2021/9/29/bda9fe48-193c-4a64-8e2a-a8e60bd6e2d61632884288144Trainers1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630218/2021/9/29/e234c6a7-57cb-4f85-85c8-f3cb5b726bd81632884288312Trainers2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630218/2021/9/29/bb2c09e7-ebfa-435b-a4d5-2b412469b5a21632884288482Trainers3.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 19,
+      "category": "Men's Clothing",
+      "size": "39, 40, 42, 44",
+      "title": "Men Pink Regular Fit Hoodie",
+      "price": 2299,
+      "gender": "men",
+      "description": "Long-sleeved hoodie in soft sweatshirt fabric with a kangaroo pocket, double-layered drawstring hood with a wrapover front, and ribbing at the cuffs and hem.",
+      "brand": "H&M",
+      "color": "pink",
+      "discount": 10,
+      "off_price": 1399,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15193766/2021/8/19/9cb8134c-f8b1-4f5e-94b4-9e95aafd9f041629354060319RegularFitHoodie1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15193766/2021/8/19/ba611bd7-cfc6-4ff5-8151-a70c5e2816cb1629354060211RegularFitHoodie2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15193766/2021/8/19/448d5056-3930-491d-9381-7b1cd73e91681629354059992RegularFitHoodie3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15193766/2021/8/19/6164e6d3-07c2-4d60-98f2-7edba0357e191629354060078RegularFitHoodie4.jpg"
+      ],
+      "ratings": 4.6
+    },
+    {
+      "id": 20,
+      "category": "Men's Clothing",
+      "size": "39, 40, 42, 44",
+      "title": "Men Blue Relaxed Fit Hoodie",
+      "price": 1499,
+      "gender": "male",
+      "description": "Hoodie in sweatshirt fabric made from a cotton blend. Relaxed fit with a lined, drawstring hood, long sleeves, kangaroo pocket and ribbing at the cuffs and hem. Soft brushed inside.",
+      "brand": "H&M",
+      "color": "blue",
+      "discount": "10",
+      "off_price": 1500,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15746172/2021/10/7/a621b7fd-babb-4bb3-940e-b16afb7947d31633609833495HMMenBlueRelaxedFitHoodie1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15746172/2021/10/7/b019b315-fb56-481a-9de4-97f588b636551633609832286HMMenBlueRelaxedFitHoodie2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15746172/2021/10/7/daca690f-f36d-4b61-b5f3-c9e9acf7a1f61633609832145HMMenBlueRelaxedFitHoodie3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15746172/2021/10/7/dbe47737-1d80-4cab-9f03-ee8cb32540cb1633609833304HMMenBlueRelaxedFitHoodie4.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 21,
+      "category": "Men's Clothing",
+      "size": "39, 40, 42, 44",
+      "title": "Men Grey Relaxed Fit Sweatshirt",
+      "price": 799,
+      "gender": "men",
+      "description": "Grey solid sweatshirt has a round neck, long sleeves, closure, straight hem",
+      "brand": "H&M",
+      "color": "black",
+      "discount": 40,
+      "off_price": 1299,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15611412/2021/9/29/9b684f64-c8a6-4808-952e-604516fa5a001632884361405HMMenGreyRelaxedFitSweatshirt1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15611412/2021/9/29/df8910b9-bf54-454d-94e4-abab395291f01632884361459HMMenGreyRelaxedFitSweatshirt2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15611412/2021/9/29/b30b1a59-fcb4-4738-9829-15211df1f9601632884361471HMMenGreyRelaxedFitSweatshirt3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15611412/2021/9/29/6b76621f-ad2d-41a7-ae2f-393b22e5776f1632884361483HMMenGreyRelaxedFitSweatshirt4.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 22,
+      "category": "Men's Footwear",
+      "size": "39, 40, 42, 44",
+      "title": "Men White Trainers",
+      "price": 1999,
+      "gender": "men",
+      "description": "Trainers in imitation leather with a contrasting colour heel cap. Padded top edge and a tongue and lacing at the front. Linings and insoles in piqu and rubber soles that are patterned underneath.",
+      "brand": "H&M",
+      "color": "white",
+      "discount": 10,
+      "off_price": 2199,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630218/2021/9/29/bda9fe48-193c-4a64-8e2a-a8e60bd6e2d61632884288144Trainers1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630218/2021/9/29/e234c6a7-57cb-4f85-85c8-f3cb5b726bd81632884288312Trainers2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630218/2021/9/29/bb2c09e7-ebfa-435b-a4d5-2b412469b5a21632884288482Trainers3.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 23,
+      "category": "Men's Clothing",
+      "size": "39, 40, 42, 44",
+      "title": "Men Pink Regular Fit Hoodie",
+      "price": 2299,
+      "gender": "men",
+      "description": "Long-sleeved hoodie in soft sweatshirt fabric with a kangaroo pocket, double-layered drawstring hood with a wrapover front, and ribbing at the cuffs and hem.",
+      "brand": "H&M",
+      "color": "pink",
+      "discount": 10,
+      "off_price": 1399,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15193766/2021/8/19/9cb8134c-f8b1-4f5e-94b4-9e95aafd9f041629354060319RegularFitHoodie1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15193766/2021/8/19/ba611bd7-cfc6-4ff5-8151-a70c5e2816cb1629354060211RegularFitHoodie2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15193766/2021/8/19/448d5056-3930-491d-9381-7b1cd73e91681629354059992RegularFitHoodie3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15193766/2021/8/19/6164e6d3-07c2-4d60-98f2-7edba0357e191629354060078RegularFitHoodie4.jpg"
+      ],
+      "ratings": 4.6
+    },
+    {
+      "id": 24,
+      "category": "Men's Clothing",
+      "size": "39, 40, 42, 44",
+      "title": "Men Blue Cotton Fine-knit Jumper",
+      "price": 1499,
+      "gender": "men",
+      "description": "Jumper in a soft, fine cotton knit with a round neck, long sleeves and ribbing at the cuffs and hem.",
+      "brand": "H&M",
+      "color": "blue",
+      "discount": 40,
+      "off_price": 1799,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15545930/2021/9/27/bf790580-9d52-423a-8083-38f1ca7f47511632723350062Fine-knitjumper1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15545930/2021/9/27/2cc4b764-c362-462a-a776-52102f5c9ec11632723350071Fine-knitjumper2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15545930/2021/9/27/83b555e8-d9e7-4b6e-99dd-1b768d33e3c31632723350081Fine-knitjumper3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15545930/2021/9/27/89440af7-6ba1-42a2-a299-af466939affd1632723350237Fine-knitjumper4.jpg"
+      ],
+      "ratings": 4.6
+    }
+  ],
+  "Women": [
+    {
+      "id": 1,
+      "title": "Women Blue Oversized Zip-Through Hoodie",
+      "price": 2299,
+      "gender": "women",
+      "description": "Oversized zip-through hoodie in sweatshirt fabric made from a cotton blend with a lined, drawstring hood, zip down the front and front pockets. Dropped shoulders, long sleeves and ribbing at the cuffs and hem. Soft brushed inside.",
+      "category": "Women's Clothing",
+      "brand": "H&M",
+      "color": "blue",
+      "discount": 10,
+      "off_price": 2399,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630064/2021/9/29/d500ab0e-bdc3-4ff6-a0ca-9dd3cf1a9db51632884597096HMWomenBlueOversizedZip-ThroughHoodie1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630064/2021/9/29/a6dca512-5899-438f-939e-f7663fca48051632884597106HMWomenBlueOversizedZip-ThroughHoodie2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630064/2021/9/29/e346968f-3b37-47c6-996e-b921e12400b51632884597117HMWomenBlueOversizedZip-ThroughHoodie3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630064/2021/9/29/d7538cfb-e00c-4a10-9edf-d0ecd3eac83f1632884597128HMWomenBlueOversizedZip-ThroughHoodie4.jpg"
+      ],
+      "ratings": 4.8
+    },
+    {
+      "id": 2,
+      "title": "Women Off-White Solid Short Cardigan",
+      "price": 1299,
+      "gender": "women",
+      "description": "Short cardigan in a soft knit with a V-neck and buttons down the front. Gently dropped shoulders, long sleeves and ribbing around the opening, cuffs and hem.",
+      "category": "Women's Clothing",
+      "brand": "H&M",
+      "color": "Off-White",
+      "discount": 30,
+      "off_price": 1599,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/15/97359bce-6e02-4744-ba62-946bc858c6de1610689986574-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/15/d490b66a-08b5-4c1d-aaa3-e3c039acf54e1610689986592-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/15/aa71abbb-d333-4e57-b0f3-48d0eaa781631610689986608-5.jpg"
+      ],
+      "ratings": 4.4
+    },
+    {
+      "id": 3,
+      "title": "Women Pink Solid Cropped Sweatshirt",
+      "price": 799,
+      "gender": "women",
+      "description": "Cropped top in soft sweatshirt fabric with a small embroidered detail at the top. Round neckline, dropped shoulders and long sleeves. Ribbing around the neckline, cuffs and hem.",
+      "category": "Women's Clothing",
+      "brand": "H&M",
+      "color": "pink",
+      "discount": 10,
+      "off_price": 809,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15295806/2021/8/30/6b2b9a47-459c-4e3b-87a8-d55f6aacfd711630295993682Croppedsweatshirt1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15295806/2021/8/30/3219d5fe-c7f8-4a34-b09c-dcd67875e31e1630295993445Croppedsweatshirt2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15295806/2021/8/30/06d6e6e3-dae8-4be7-bdc2-b3c15ca5f2601630295993097Croppedsweatshirt3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15295806/2021/8/30/c45e8396-ac4e-4171-8d83-b13f736893441630295993288Croppedsweatshirt4.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 4,
+      "title": "Women White & Black Acrylic Jumper",
+      "price": 799,
+      "gender": "women",
+      "description": "Jumper in a soft knit with low dropped shoulders, extra-long sleeves and ribbing around the neckline, cuffs and hem.",
+      "category": "Women's Clothing",
+      "brand": "H&M",
+      "color": "white",
+      "discount": 35,
+      "off_price": 1199,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15809062/2021/10/13/4f6d1445-f481-4d06-b0b9-6d6de7da9d261634063934609Jumper1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15809062/2021/10/13/cc2a731a-4289-4118-a4d2-0e068e9754261634063934421Jumper2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15809062/2021/10/13/b8de7c0c-b981-444d-9cb9-b1ce649e0cd81634063934566Jumper3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15809062/2021/10/13/6668306f-2dd3-4b95-867a-ce1d6b1d9f211634063934575Jumper4.jpg"
+      ],
+      "ratings": 4.7
+    },
+    {
+      "id": 5,
+      "title": "Women Black Solid Chunky Combat Boots",
+      "price": 2699,
+      "gender": "women",
+      "description": "Combat boots with chunky, patterned soles, lacing at the front, a zip in one side and a loop at the back.",
+      "category": "Women's Footwear",
+      "brand": "H&M",
+      "color": "black",
+      "discount": "20",
+      "off_price": 2899,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15674090/2021/9/30/afaff65c-4bb5-4f76-a15e-fad7ac12dcf61632997313239Chunkycombatboots3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15674090/2021/9/30/3027a850-cbd1-45f0-9246-7ddd20463da01632997313348Chunkycombatboots4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15674090/2021/9/30/1bda9625-d20a-4105-84d7-0a50cf6ddadd1632997313456Chunkycombatboots5.jpg"
+      ],
+      "ratings": 4.6
+    },
+    {
+      "id": 6,
+      "title": "Women Blue Oversized Zip-Through Hoodie",
+      "price": 2299,
+      "gender": "women",
+      "description": "Oversized zip-through hoodie in sweatshirt fabric made from a cotton blend with a lined, drawstring hood, zip down the front and front pockets. Dropped shoulders, long sleeves and ribbing at the cuffs and hem. Soft brushed inside.",
+      "category": "Women's Clothing",
+      "brand": "H&M",
+      "color": "blue",
+      "discount": 10,
+      "off_price": 2399,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630064/2021/9/29/d500ab0e-bdc3-4ff6-a0ca-9dd3cf1a9db51632884597096HMWomenBlueOversizedZip-ThroughHoodie1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630064/2021/9/29/a6dca512-5899-438f-939e-f7663fca48051632884597106HMWomenBlueOversizedZip-ThroughHoodie2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630064/2021/9/29/e346968f-3b37-47c6-996e-b921e12400b51632884597117HMWomenBlueOversizedZip-ThroughHoodie3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630064/2021/9/29/d7538cfb-e00c-4a10-9edf-d0ecd3eac83f1632884597128HMWomenBlueOversizedZip-ThroughHoodie4.jpg"
+      ],
+      "ratings": 4.8
+    },
+    {
+      "id": 7,
+      "title": "Women Off-White Solid Short Cardigan",
+      "price": 1299,
+      "gender": "women",
+      "description": "Short cardigan in a soft knit with a V-neck and buttons down the front. Gently dropped shoulders, long sleeves and ribbing around the opening, cuffs and hem.",
+      "category": "Women's Clothing",
+      "brand": "H&M",
+      "color": "Off-White",
+      "discount": 30,
+      "off_price": 1599,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/15/97359bce-6e02-4744-ba62-946bc858c6de1610689986574-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/15/d490b66a-08b5-4c1d-aaa3-e3c039acf54e1610689986592-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/15/aa71abbb-d333-4e57-b0f3-48d0eaa781631610689986608-5.jpg"
+      ],
+      "ratings": 4.4
+    },
+    {
+      "id": 8,
+      "title": "Women Pink Solid Cropped Sweatshirt",
+      "price": 799,
+      "gender": "women",
+      "description": "Cropped top in soft sweatshirt fabric with a small embroidered detail at the top. Round neckline, dropped shoulders and long sleeves. Ribbing around the neckline, cuffs and hem.",
+      "category": "Women's Clothing",
+      "brand": "H&M",
+      "color": "pink",
+      "discount": 10,
+      "off_price": 809,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15295806/2021/8/30/6b2b9a47-459c-4e3b-87a8-d55f6aacfd711630295993682Croppedsweatshirt1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15295806/2021/8/30/3219d5fe-c7f8-4a34-b09c-dcd67875e31e1630295993445Croppedsweatshirt2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15295806/2021/8/30/06d6e6e3-dae8-4be7-bdc2-b3c15ca5f2601630295993097Croppedsweatshirt3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15295806/2021/8/30/c45e8396-ac4e-4171-8d83-b13f736893441630295993288Croppedsweatshirt4.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 9,
+      "title": "Women Black Solid Chunky Combat Boots",
+      "price": 2699,
+      "gender": "women",
+      "description": "Combat boots with chunky, patterned soles, lacing at the front, a zip in one side and a loop at the back.",
+      "category": "Women's Footwear",
+      "brand": "H&M",
+      "color": "black",
+      "discount": "20",
+      "off_price": 2899,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15674090/2021/9/30/afaff65c-4bb5-4f76-a15e-fad7ac12dcf61632997313239Chunkycombatboots3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15674090/2021/9/30/3027a850-cbd1-45f0-9246-7ddd20463da01632997313348Chunkycombatboots4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15674090/2021/9/30/1bda9625-d20a-4105-84d7-0a50cf6ddadd1632997313456Chunkycombatboots5.jpg"
+      ],
+      "ratings": 4.6
+    },
+    {
+      "id": 10,
+      "title": "Women White & Black Acrylic Jumper",
+      "price": 799,
+      "gender": "women",
+      "description": "Jumper in a soft knit with low dropped shoulders, extra-long sleeves and ribbing around the neckline, cuffs and hem.",
+      "category": "Women's Clothing",
+      "brand": "H&M",
+      "color": "white",
+      "discount": 35,
+      "off_price": 1199,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15809062/2021/10/13/4f6d1445-f481-4d06-b0b9-6d6de7da9d261634063934609Jumper1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15809062/2021/10/13/cc2a731a-4289-4118-a4d2-0e068e9754261634063934421Jumper2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15809062/2021/10/13/b8de7c0c-b981-444d-9cb9-b1ce649e0cd81634063934566Jumper3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15809062/2021/10/13/6668306f-2dd3-4b95-867a-ce1d6b1d9f211634063934575Jumper4.jpg"
+      ],
+      "ratings": 4.7
+    },
+    {
+      "id": 11,
+      "title": "Women Medieval Blue Solid Rapid-Dry Antimicrobial Training Jacket",
+      "price": 959,
+      "gender": "women",
+      "description": "",
+      "category": "Women's Clothing",
+      "brand": "HRX",
+      "color": "blue",
+      "discount": 60,
+      "off_price": 1440,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11953088/2020/10/16/bb133566-c42b-4511-a4f6-04e01493a1751602847375259-HRX-by-Hrithik-Roshan-Women-Jackets-5591602847372658-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11953088/2020/10/16/e41542ed-e7fe-4bfc-931d-2d8983666cb31602847375204-HRX-by-Hrithik-Roshan-Women-Jackets-5591602847372658-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11953088/2020/10/16/c3e08ab9-eb19-47bf-9fae-261a039d188d1602847375146-HRX-by-Hrithik-Roshan-Women-Jackets-5591602847372658-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11953088/2020/10/16/b96e6f2b-3d30-4823-9b60-a2574792c0b11602847375073-HRX-by-Hrithik-Roshan-Women-Jackets-5591602847372658-4.jpg"
+      ],
+      "ratings": 4.3
+    },
+    {
+      "id": 12,
+      "title": "Men Green Solid Sporty Jacket",
+      "price": 1099,
+      "gender": "women",
+      "description": "A classic wind cheater gets a trendy makeover. The HRX Women's Running Jacket protects you from the wind as you run and its ergonomic seams give a wide range of motion. After your run, the wind cheater helps regulate body temperature so that you don't catch a chill.",
+      "category": "Men's Clothing",
+      "brand": "HRX",
+      "color": "green",
+      "discount": 50,
+      "off_price": 1100,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4923958/2018/10/11/49a9e67d-b467-4cb4-8ee8-236e8b0724d61539257221823-HRX-by-Hrithik-Roshan-Women-Blue-Solid-Sporty-Jacket-8731539257221540-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4923958/2018/10/11/6ec032ea-3f72-44de-bd48-443b3a2210b71539257221805-HRX-by-Hrithik-Roshan-Women-Blue-Solid-Sporty-Jacket-8731539257221540-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4923958/2018/10/11/286348fc-cc29-4bac-8adc-b83f8fb965741539257221784-HRX-by-Hrithik-Roshan-Women-Blue-Solid-Sporty-Jacket-8731539257221540-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4923958/2018/10/11/2c525dda-c6aa-48ed-94cd-7637aba19d101539257221769-HRX-by-Hrithik-Roshan-Women-Blue-Solid-Sporty-Jacket-8731539257221540-4.jpg"
+      ],
+      "ratings": 4.2
+    },
+    {
+      "id": 13,
+      "title": "Unisex Grey & Black Solid Training Duffel Bag",
+      "price": 959,
+      "gender": "women",
+      "description": "Black solid gym duffel bag One shoulder strap One main compartment One zip pocket on the front",
+      "category": "Unisex Accessories",
+      "brand": "HRX",
+      "color": "black",
+      "discount": 52,
+      "off_price": 1999,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2453352/2018/3/20/11521547263298-HRX-by-Hrithik-Roshan-Unisex-Duffel-Bag-8481521547263184-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2453352/2018/3/20/11521547263272-HRX-by-Hrithik-Roshan-Unisex-Duffel-Bag-8481521547263184-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2453352/2018/3/20/11521547263245-HRX-by-Hrithik-Roshan-Unisex-Duffel-Bag-8481521547263184-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2453352/2018/3/27/11522140592058-HRX-by-Hrithik-Roshan-Black-Duffel-Bag-1791522140592020-6.jpg"
+      ],
+      "ratings": 4.3
+    },
+    {
+      "id": 14,
+      "title": "Women Medieval Blue Solid Rapid-Dry Antimicrobial Training Jacket",
+      "price": 959,
+      "gender": "women",
+      "description": "",
+      "category": "Women's Clothing",
+      "brand": "HRX",
+      "color": "blue",
+      "discount": 60,
+      "off_price": 1440,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11953088/2020/10/16/bb133566-c42b-4511-a4f6-04e01493a1751602847375259-HRX-by-Hrithik-Roshan-Women-Jackets-5591602847372658-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11953088/2020/10/16/e41542ed-e7fe-4bfc-931d-2d8983666cb31602847375204-HRX-by-Hrithik-Roshan-Women-Jackets-5591602847372658-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11953088/2020/10/16/c3e08ab9-eb19-47bf-9fae-261a039d188d1602847375146-HRX-by-Hrithik-Roshan-Women-Jackets-5591602847372658-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11953088/2020/10/16/b96e6f2b-3d30-4823-9b60-a2574792c0b11602847375073-HRX-by-Hrithik-Roshan-Women-Jackets-5591602847372658-4.jpg"
+      ],
+      "ratings": 4.3
+    },
+    {
+      "id": 16,
+      "title": "Men Green Solid Sporty Jacket",
+      "price": 1099,
+      "gender": "women",
+      "description": "A classic wind cheater gets a trendy makeover. The HRX Women's Running Jacket protects you from the wind as you run and its ergonomic seams give a wide range of motion. After your run, the wind cheater helps regulate body temperature so that you don't catch a chill.",
+      "category": "Men's Clothing",
+      "brand": "HRX",
+      "color": "green",
+      "discount": 50,
+      "off_price": 1100,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4923958/2018/10/11/49a9e67d-b467-4cb4-8ee8-236e8b0724d61539257221823-HRX-by-Hrithik-Roshan-Women-Blue-Solid-Sporty-Jacket-8731539257221540-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4923958/2018/10/11/6ec032ea-3f72-44de-bd48-443b3a2210b71539257221805-HRX-by-Hrithik-Roshan-Women-Blue-Solid-Sporty-Jacket-8731539257221540-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4923958/2018/10/11/286348fc-cc29-4bac-8adc-b83f8fb965741539257221784-HRX-by-Hrithik-Roshan-Women-Blue-Solid-Sporty-Jacket-8731539257221540-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4923958/2018/10/11/2c525dda-c6aa-48ed-94cd-7637aba19d101539257221769-HRX-by-Hrithik-Roshan-Women-Blue-Solid-Sporty-Jacket-8731539257221540-4.jpg"
+      ],
+      "ratings": 4.2
+    },
+    {
+      "id": 17,
+      "title": "Unisex Grey & Black Solid Training Duffel Bag",
+      "price": 959,
+      "gender": "women",
+      "description": "Black solid gym duffel bag One shoulder strap One main compartment One zip pocket on the front",
+      "category": "Unisex Accessories",
+      "brand": "HRX",
+      "color": "black",
+      "discount": 52,
+      "off_price": 1999,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2453352/2018/3/20/11521547263298-HRX-by-Hrithik-Roshan-Unisex-Duffel-Bag-8481521547263184-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2453352/2018/3/20/11521547263272-HRX-by-Hrithik-Roshan-Unisex-Duffel-Bag-8481521547263184-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2453352/2018/3/20/11521547263245-HRX-by-Hrithik-Roshan-Unisex-Duffel-Bag-8481521547263184-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2453352/2018/3/27/11522140592058-HRX-by-Hrithik-Roshan-Black-Duffel-Bag-1791522140592020-6.jpg"
+      ],
+      "ratings": 4.3
+    },
+    {
+      "id": 18,
+      "title": "Women White Solid Pure Cotton Camisole",
+      "price": 199,
+      "gender": "women",
+      "description": "White solid non-padded camisole, has an adjustable shoulder strap, scoop neck, and sleeveless",
+      "category": "Women Clothing",
+      "brand": "Dreamz by Pantaloons",
+      "color": "white",
+      "discount": "20",
+      "off_price": 349,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15856648/2021/10/20/f7058f62-5437-455b-965c-e6a6527f16d71634712078687DreamzbyPantaloonsWomenWhiteSolidPureCottonCamisole1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15856648/2021/10/20/0ed0e185-6e52-4881-9a17-d74a0d5d9a591634712078709DreamzbyPantaloonsWomenWhiteSolidPureCottonCamisole3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15856648/2021/10/20/c7ef3ec9-b53f-4f2b-8813-96a3b1422bfb1634712078732DreamzbyPantaloonsWomenWhiteSolidPureCottonCamisole2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15856648/2021/10/20/a72cc9b8-a314-4c64-80bb-0837bdc0efa51634712078720DreamzbyPantaloonsWomenWhiteSolidPureCottonCamisole4.jpg"
+      ],
+      "ratings": 4.7
+    },
+    {
+      "id": 19,
+      "title": "Women Black & White Colourblocked Poncho Shrug",
+      "price": 1699,
+      "gender": "women",
+      "description": "Black & white colourblocked knitted poncho, has a ribbed mock neck, long sleeves and high-low hemline",
+      "category": "Women Clothing",
+      "brand": "Annabelle by Pantaloons",
+      "color": "white",
+      "discount": 65,
+      "off_price": 3200,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/23/50d6bd63-ac50-43c9-8afb-39c5b9a832c31606135974499-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/23/3beba1f4-b639-4048-8d7a-137618f09c1d1606135974549-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/23/5be75c2f-90b5-4163-8689-2feb4771afdd1606135974596-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/23/c004d015-55c8-4a7f-9845-679e27ec54e11606135974639-4.jpg"
+      ],
+      "ratings": 1.6
+    },
+    {
+      "id": 20,
+      "title": "Women Pink Textile Running Non-Marking Shoes",
+      "price": 1199,
+      "gender": "women",
+      "description": "A pair of pink running shoes, has mid-top Styling, slip-on detail Textile upper Cushioned footbed Textured and patterned outsole",
+      "category": "Women Footwear",
+      "brand": "Forever Glam by Pantaloons",
+      "color": "pink",
+      "discount": 65,
+      "off_price": 3200,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15527452/2021/9/18/bd6c72f7-278a-41ff-8ec7-e8295e80dff11631963742447SportsShoes3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15527452/2021/9/18/75f70271-69c2-43a9-9dae-71dc8ca191ec1631963742455SportsShoes4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15527452/2021/9/18/3c33f6c6-d8c2-41c6-8fda-82eb6748febb1631963742206SportsShoes5.jpg"
+      ],
+      "ratings": 4.2
+    },
+    {
+      "id": 21,
+      "title": "Peach-Coloured Printed Shopper Tote Bag",
+      "price": 199,
+      "gender": "women",
+      "description": "",
+      "category": "Women Accessories",
+      "brand": "Forever Glam by Pantaloons",
+      "color": "blue",
+      "discount": 40,
+      "off_price": 300,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15511298/2021/9/17/a5cd135c-f3e2-469c-823e-e80f58dc82191631869929752ForeverGlambyPantaloonsPeach-ColouredPrintedShopperToteBag1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15511298/2021/9/17/a64d0f8a-850b-4d41-b88b-8d6fc7667a641631869929856ForeverGlambyPantaloonsPeach-ColouredPrintedShopperToteBag2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15511298/2021/9/17/866c183c-c283-47ba-93b9-1ee87fadd4f71631869929650ForeverGlambyPantaloonsPeach-ColouredPrintedShopperToteBag3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15511298/2021/9/17/bc1ec90a-ff32-4b26-bd20-922397370e1f1631869930008ForeverGlambyPantaloonsPeach-ColouredPrintedShopperToteBag4.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 22,
+      "title": "Girls Black Shorts",
+      "price": 359,
+      "gender": "women",
+      "description": "",
+      "category": "Girls Clothing",
+      "brand": "Pantaloons Junior",
+      "color": "black",
+      "discount": 10,
+      "off_price": 40,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/10/89bcff77-3a32-47ae-ad76-d4ca378b9cde1618061823569-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/10/37df6d82-5298-4014-80e4-27340cabbb591618061823585-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/10/27d29bd4-bd25-4875-8778-75ba4d779bcb1618061823601-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/10/ec7c56bd-b83a-4a0f-853e-fb9ba0620f641618061823622-4.jpg"
+      ],
+      "ratings": 4.4
+    },
+    {
+      "id": 23,
+      "title": "Blue Kurti",
+      "price": 699,
+      "gender": "women",
+      "description": "",
+      "category": "Women's Clothing",
+      "brand": "AKKRITI BY PANTALOONS",
+      "color": "blue",
+      "discount": 10,
+      "off_price": 709,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2495749/2018/7/6/8c081892-7e67-481e-a7af-a6a4d48ab7681530867771299-AKKRITI-BY-PANTALOONS-Blue-Kurti-381530867771085-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2495749/2018/7/6/357677f9-3c94-4715-9c42-62370cffc57a1530867771271-AKKRITI-BY-PANTALOONS-Blue-Kurti-381530867771085-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2495749/2018/7/6/67b0c877-2c9b-4d30-b2f7-93dce4fb89bc1530867771246-AKKRITI-BY-PANTALOONS-Blue-Kurti-381530867771085-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2495749/2018/7/6/22d1049b-2a9b-4fc0-8069-21347e208e201530867771227-AKKRITI-BY-PANTALOONS-Blue-Kurti-381530867771085-4.jpg"
+      ],
+      "ratings": 5.2
+    },
+    {
+      "id": 24,
+      "title": "Black Culottes",
+      "price": 699,
+      "gender": "women",
+      "description": "",
+      "category": "Women Clothing",
+      "brand": "Ajile by Pantaloons",
+      "color": "black",
+      "discount": 10,
+      "off_price": 799,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1450649/2016/8/5/11470396481435-Ajile-by-Pantaloons-Women-Trousers-1041470396480422-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1450649/2016/8/5/11470396481412-Ajile-by-Pantaloons-Women-Trousers-1041470396480422-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1450649/2016/8/5/11470396481390-Ajile-by-Pantaloons-Women-Trousers-1041470396480422-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1450649/2016/8/5/11470396481366-Ajile-by-Pantaloons-Women-Trousers-1041470396480422-4.jpg"
+      ],
+      "ratings": 5.6
+    },
+    {
+      "id": 25,
+      "title": "Women White Solid Pure Cotton Camisole",
+      "price": 199,
+      "gender": "women",
+      "description": "White solid non-padded camisole, has an adjustable shoulder strap, scoop neck, and sleeveless",
+      "category": "Women Clothing",
+      "brand": "Dreamz by Pantaloons",
+      "color": "white",
+      "discount": 20,
+      "off_price": 349,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15856648/2021/10/20/f7058f62-5437-455b-965c-e6a6527f16d71634712078687DreamzbyPantaloonsWomenWhiteSolidPureCottonCamisole1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15856648/2021/10/20/0ed0e185-6e52-4881-9a17-d74a0d5d9a591634712078709DreamzbyPantaloonsWomenWhiteSolidPureCottonCamisole3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15856648/2021/10/20/c7ef3ec9-b53f-4f2b-8813-96a3b1422bfb1634712078732DreamzbyPantaloonsWomenWhiteSolidPureCottonCamisole2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15856648/2021/10/20/a72cc9b8-a314-4c64-80bb-0837bdc0efa51634712078720DreamzbyPantaloonsWomenWhiteSolidPureCottonCamisole4.jpg"
+      ],
+      "ratings": 4.7
+    },
+    {
+      "id": 26,
+      "title": "Women Black & White Colourblocked Poncho Shrug",
+      "price": 1699,
+      "gender": "women",
+      "description": "Black & white colourblocked knitted poncho, has a ribbed mock neck, long sleeves and high-low hemline",
+      "category": "Women Clothing",
+      "brand": "Annabelle by Pantaloons",
+      "color": "white",
+      "discount": 65,
+      "off_price": 3200,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/23/50d6bd63-ac50-43c9-8afb-39c5b9a832c31606135974499-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/23/3beba1f4-b639-4048-8d7a-137618f09c1d1606135974549-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/23/5be75c2f-90b5-4163-8689-2feb4771afdd1606135974596-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/23/c004d015-55c8-4a7f-9845-679e27ec54e11606135974639-4.jpg"
+      ],
+      "ratings": 1.6
+    },
+    {
+      "id": 27,
+      "title": "Women Pink Textile Running Non-Marking Shoes",
+      "price": 1199,
+      "gender": "women",
+      "description": "A pair of pink running shoes, has mid-top Styling, slip-on detail Textile upper Cushioned footbed Textured and patterned outsole",
+      "category": "Women Footwear",
+      "brand": "Forever Glam by Pantaloons",
+      "color": "pink",
+      "discount": 65,
+      "off_price": 3200,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15527452/2021/9/18/bd6c72f7-278a-41ff-8ec7-e8295e80dff11631963742447SportsShoes3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15527452/2021/9/18/75f70271-69c2-43a9-9dae-71dc8ca191ec1631963742455SportsShoes4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15527452/2021/9/18/3c33f6c6-d8c2-41c6-8fda-82eb6748febb1631963742206SportsShoes5.jpg"
+      ],
+      "ratings": 4.2
+    },
+    {
+      "id": 28,
+      "title": "Peach-Coloured Printed Shopper Tote Bag",
+      "price": 199,
+      "gender": "women",
+      "description": "",
+      "category": "Women Accessories",
+      "brand": "Forever Glam by Pantaloons",
+      "color": "blue",
+      "discount": 40,
+      "off_price": 300,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15511298/2021/9/17/a5cd135c-f3e2-469c-823e-e80f58dc82191631869929752ForeverGlambyPantaloonsPeach-ColouredPrintedShopperToteBag1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15511298/2021/9/17/a64d0f8a-850b-4d41-b88b-8d6fc7667a641631869929856ForeverGlambyPantaloonsPeach-ColouredPrintedShopperToteBag2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15511298/2021/9/17/866c183c-c283-47ba-93b9-1ee87fadd4f71631869929650ForeverGlambyPantaloonsPeach-ColouredPrintedShopperToteBag3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15511298/2021/9/17/bc1ec90a-ff32-4b26-bd20-922397370e1f1631869930008ForeverGlambyPantaloonsPeach-ColouredPrintedShopperToteBag4.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 29,
+      "categories": "beautycare",
+      "title": "New York Colossal Volume Express Waterproof Mascara - Black 10 g",
+      "price": 319,
+      "gender": "women",
+      "description": "",
+      "brand": "Maybelline",
+      "color": "black",
+      "discount": 20,
+      "off_price": 70,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10849052/2019/12/4/3e2cb1c3-b3c1-4024-8564-b57f80d02fcd1575450466090MaybellineNewYorkWaterproofBlackVolumeExpressColossalMasacar2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/banner2021/6/15/d3930fd7-6ad9-4a23-8b70-b4ff4f27cdc81623745687917-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10849052/2019/12/4/645a8cef-8d8d-4da3-87c8-8e08512c32b71575450466046MaybellineNewYorkWaterproofBlackVolumeExpressColossalMasacar1.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 30,
+      "categories": "beautycare",
+      "title": "Perfect Match Primer 30 ml",
+      "price": 595,
+      "gender": "women",
+      "description": "Colorbar Perfect Match Primer",
+      "brand": "Colorbar",
+      "color": "black",
+      "discount": 10,
+      "off_price": 140,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/220738/2020/6/15/8b32f353-3189-4b82-9a6f-937a058eccff1592214516880ColorbarPerfectMatchPrimer30ml1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/banner2021/3/1/8503d2e8-6330-4096-ad76-85290bc228a01614579407303-15.jpg"
+      ],
+
+      "ratings": 48
+    },
+    {
+      "id": 31,
+      "categories": "beautycare",
+      "title": "Insta-Liner - Black 9ml",
+      "price": 104,
+      "gender": "women",
+      "description": "Insta-Liner",
+      "Shadename": "black",
+      "brand": "Lakme",
+      "color": "black",
+      "discount": 20,
+      "off_price": 26,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11629082/2020/4/17/09540356-4d63-4c69-9767-e140bf455a951587127536678-Lakme-Insta-Liner---Black-9ml-1911587127536433-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/banner2021/4/14/8fa011ab-7b90-41e7-9b72-ba3229a568181618389182461-15.jpg"
+      ],
+      "ratings": 4.4
+    },
+    {
+      "id": 32,
+      "categories": "beautycare",
+      "title": "Set of 2 Eyeconic Kajal - Deep Black 0.70 g Each",
+      "price": 240,
+      "gender": "women",
+      "description": "Eyeconic Kajal",
+      "Shade": "Deep black",
+      "brand": "Lakme",
+      "color": "black",
+      "discount": 25,
+      "off_price": 80,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11629094/2020/7/9/d9cc4f27-9deb-46ca-821e-a37410cbcbd51594288324999LakmeSetof2EyeconicKajal-DeepBlack070g1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/banner2021/4/14/8fa011ab-7b90-41e7-9b72-ba3229a568181618389182461-15.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1364628/2016/8/31/11472636737616-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-5.jpg",
+        "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1364628/2016/8/31/11472636737656-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-4.jpg"
+      ],
+      "ratings": 4.6
+    },
+    {
+      "id": 33,
+      "categories": "beautycare",
+      "title": "Lip Plumping Sleeping Mask Vitamin C + E - 15 ml",
+      "price": 355,
+      "gender": "women",
+      "description": "Lip Plumping Sleeping Mask Vitamin C + E - 15 ml",
+      "brand": "DOT & KEY",
+      "color": "",
+      "discount": 10,
+      "off_price": 40,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14373234/2021/8/11/45c372da-2fff-428f-9548-fc3625946d131628671206753DOTKEYLipPlumpingSleepingMaskVitaminCE-15ml1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14373234/2021/8/11/80ecb7bf-38a7-447d-bb81-e41e16c565ea1628671206772DOTKEYLipPlumpingSleepingMaskVitaminCE-15ml3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14373234/2021/8/11/0f5322d8-2d51-48f1-812b-8f292aea648e1628671206783DOTKEYLipPlumpingSleepingMaskVitaminCE-15ml4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14373234/2021/8/11/99fa7240-9613-4e2c-96fb-e6160a4553451628671206876DOTKEYLipPlumpingSleepingMaskVitaminCE-15ml5.jpg"
+      ],
+      "ratings": 4.4
+    },
+    {
+      "id": 34,
+      "categories": "beautycare",
+      "title": "New York The Nudes Eyeshadow Palette - Blush 9g",
+      "price": 633,
+      "gender": "women",
+      "description": "The Blushed Nudes Eyeshadow Palette",
+      "ShadeName": "Blush",
+      "brand": "Maybelline",
+      "color": "black",
+      "discount": 30,
+      "off_price": 272,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10849124/2019/12/4/a62fbd1d-1bb3-4718-86f1-42ad941c134b1575450495021MaybellineNewYorkTheBlushedNudesEyeshadowPalette9g1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10849124/2019/12/4/5b9e78b0-50d3-4521-a1b5-dd22f81c16641575450495073MaybellineNewYorkTheBlushedNudesEyeshadowPalette9g2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10849124/2019/12/4/42706a36-0af8-4f95-8f5a-7a2a76752d431575450495175MaybellineNewYorkTheBlushedNudesEyeshadowPalette9g4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/banner2021/6/15/95d11d5d-695e-49e7-b859-ec4a2d627dca1623745486350-1.jpg"
+      ],
+      "ratings": 4.4
+    },
+    {
+      "id": 35,
+      "categories": "beautycare",
+      "title": "New York Super Stay Matte Ink Liquid Lipstick - 120 Artist",
+      "price": 594,
+      "gender": "women",
+      "description": "Maybelline New York Super Stay Matte Ink Liquid Lipstick",
+      "Shadename": "Artist 120",
+      "brand": "Maybelline",
+      "color": "pink",
+      "discount": 15,
+      "off_price": 105,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8051031/2019/2/1/5c082d93-07e3-4293-afb9-3dfde63434de1549023037771-Maybelline-Women-Lipstick-1691549023037363-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8051031/2019/2/1/216af8dc-747e-47d5-9289-a121dabbe7d31549023037749-Maybelline-Women-Lipstick-1691549023037363-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8051031/2019/2/1/a48b98d3-c77c-4886-8a16-4ade73c48c8d1549023037726-Maybelline-Women-Lipstick-1691549023037363-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8051031/2019/7/26/9dd6f3a1-670d-4858-bf7f-b5c455941c081564133362377-Maybelline-New-York-120-Artist-Super-Stay-Matte-Ink-Liquid-L-4.jpg"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "id": 36,
+      "categories": "beautycare",
+      "title": "Absolute Blur Perfect Makeup Primer - Mini 10g",
+      "price": 239,
+      "gender": "women",
+      "description": "Absolute Blur Perfect Makeup Primer - Mini",
+      "brand": "Lakme",
+      "color": "",
+      "discount": 20,
+      "off_price": 60,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13203912/2021/3/24/0f5fe5cb-696c-4cd5-a911-f1cec296f5e51616572811065-Lakme-Women-Foundation-and-Primer-4691616572807941-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13203912/2021/3/24/742b61d1-ea33-4903-905d-81534c0e86411616572811049-Lakme-Women-Foundation-and-Primer-4691616572807941-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13203912/2021/3/24/05be9198-0ea5-46cf-bf00-ab70b68912c51616572811030-Lakme-Women-Foundation-and-Primer-4691616572807941-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13203912/2021/3/24/99beb15e-b8f9-407e-9d92-6a63a269b0f21616572811009-Lakme-Women-Foundation-and-Primer-4691616572807941-4.jpg"
+      ],
+      "ratings": 4.3
+    },
+    {
+      "id": 37,
+      "categories": "beautycare",
+      "title": "Magneteyes Kajal Black 01",
+      "price": 143,
+      "gender": "women",
+      "description": "The Faces Canada MagnetEyes kajal is the new age kohl you all need to make a bold statement! It is waterproof, fadeproof and does not smudge for upto 24hrs, so that you have gorgeous looking deep black eyes all day long.",
+      "brand": "FACES CANADA",
+      "color": "black",
+      "discount": 20,
+      "off_price": 36,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8886405/2020/5/27/8125981f-1326-46db-b28e-0e987c5fed371590583803443FACESCANADAMagneteyesKajal-Black01035g3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8886405/2020/5/27/f7ebb53e-32cf-4d31-b8b5-94f0cd2ac43d1590583803519FACESCANADAMagneteyesKajal-Black01035g4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8886405/2020/5/27/f3c03cf2-6183-4817-a226-b4d21600fc9a1590583803677FACESCANADAMagneteyesKajal-Black01035g5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8886405/2020/5/27/1ebb4026-b6e1-468e-b077-4ae8c65ddef81590583803789FACESCANADAMagneteyesKajal-Black01035g6.jpg"
+      ],
+      "ratings": 4.4
+    },
+    {
+      "id": 38,
+      "title": "Girls Black Shorts",
+      "price": 359,
+      "gender": "women",
+      "description": "",
+      "category": "Girls Clothing",
+      "brand": "Pantaloons Junior",
+      "color": "black",
+      "discount": 10,
+      "off_price": 40,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/10/89bcff77-3a32-47ae-ad76-d4ca378b9cde1618061823569-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/10/37df6d82-5298-4014-80e4-27340cabbb591618061823585-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/10/27d29bd4-bd25-4875-8778-75ba4d779bcb1618061823601-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/10/ec7c56bd-b83a-4a0f-853e-fb9ba0620f641618061823622-4.jpg"
+      ],
+      "ratings": 4.4
+    },
+    {
+      "id": 39,
+      "title": "Blue Kurti",
+      "price": 699,
+      "gender": "women",
+      "description": "",
+      "category": "Women's Clothing",
+      "brand": "AKKRITI BY PANTALOONS",
+      "color": "blue",
+      "discount": 10,
+      "off_price": 709,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2495749/2018/7/6/8c081892-7e67-481e-a7af-a6a4d48ab7681530867771299-AKKRITI-BY-PANTALOONS-Blue-Kurti-381530867771085-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2495749/2018/7/6/357677f9-3c94-4715-9c42-62370cffc57a1530867771271-AKKRITI-BY-PANTALOONS-Blue-Kurti-381530867771085-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2495749/2018/7/6/67b0c877-2c9b-4d30-b2f7-93dce4fb89bc1530867771246-AKKRITI-BY-PANTALOONS-Blue-Kurti-381530867771085-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2495749/2018/7/6/22d1049b-2a9b-4fc0-8069-21347e208e201530867771227-AKKRITI-BY-PANTALOONS-Blue-Kurti-381530867771085-4.jpg"
+      ],
+      "ratings": 5.2
+    },
+    {
+      "id": 40,
+      "title": "Black Culottes",
+      "price": 699,
+      "gender": "women",
+      "description": "",
+      "category": "Women Clothing",
+      "brand": "Ajile by Pantaloons",
+      "color": "black",
+      "discount": 10,
+      "off_price": 799,
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1450649/2016/8/5/11470396481435-Ajile-by-Pantaloons-Women-Trousers-1041470396480422-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1450649/2016/8/5/11470396481412-Ajile-by-Pantaloons-Women-Trousers-1041470396480422-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1450649/2016/8/5/11470396481390-Ajile-by-Pantaloons-Women-Trousers-1041470396480422-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1450649/2016/8/5/11470396481366-Ajile-by-Pantaloons-Women-Trousers-1041470396480422-4.jpg"
+      ],
+      "ratings": 5.6
+    }
+  ],
+  "Women-top-wear": [
+    {
+      "id": 1,
+      "brand": "BOSSINI",
+      "category": "T-shirt",
+      "price": "349",
+      "discount": "50",
+      "fitting": "Slim Fit",
+      "color": "['gray', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008665988-White-White-1000008665988_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008665988-White-White-1000008665988_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008665988-White-White-1000008665988_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008665988-White-White-1000008665988_04-2100.jpg']"
+    },
+    {
+      "id": 2,
+      "brand": "FAME FOREVER",
+      "category": "T-shirt",
+      "price": "449",
+      "discount": "50",
+      "fitting": "Slim Fit",
+      "color": "['white', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008654609-White-White-1000008654609_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008654609-White-White-1000008654609_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008654609-White-White-1000008654609_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008654609-White-White-1000008654609_04-2100.jpg']"
+    },
+    {
+      "id": 3,
+      "brand": "GINGER",
+      "category": "Top",
+      "price": "449",
+      "discount": "50",
+      "fitting": "Slim Fit",
+      "color": "['yellow', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009726693-Yellow-Mustard-1000009726693_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009726693-Yellow-Mustard-1000009726693_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009726693-Yellow-Mustard-1000009726693_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009726693-Yellow-Mustard-1000009726693_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009726693-Yellow-Mustard-1000009726693_05-2100.jpg']"
+    },
+    {
+      "id": 4,
+      "brand": "LATIN QUARTERS",
+      "category": "T-shirt",
+      "price": "749",
+      "discount": "50",
+      "fitting": "Regular Fit",
+      "color": "['pink', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009865322-Pink-Pink-1000009865322_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009865322-Pink-Pink-1000009865322_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009865322-Pink-Pink-1000009865322_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009865322-Pink-Pink-1000009865322_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009865322-Pink-Pink-1000009865322_05-2100.jpg']"
+    },
+    {
+      "id": 5,
+      "brand": "GINGER",
+      "category": "Shirt",
+      "price": "749",
+      "discount": "50",
+      "fitting": "Slim Fit",
+      "color": "['Black', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009718546-Black-Black-1000009718546_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009718546-Black-Black-1000009718546_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009718546-Black-Black-1000009718546_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009718546-Black-Black-1000009718546_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009718546-Black-Black-1000009718546_05-2100.jpg']"
+    },
+    {
+      "id": 6,
+      "brand": "GINGER",
+      "category": "Top",
+      "price": "749",
+      "discount": "50",
+      "fitting": "Slim Fit",
+      "color": "['Black', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009557505-Black-Black-1000009557505_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009557505-Black-Black-1000009557505_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009557505-Black-Black-1000009557505_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009557505-Black-Black-1000009557505_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009557505-Black-Black-1000009557505_05-2100.jpg']"
+    },
+    {
+      "id": 7,
+      "brand": "GINGER",
+      "category": "Top",
+      "price": "649",
+      "discount": "50",
+      "fitting": "Slim Fit",
+      "color": "['yellow', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009557527-Yellow-Mustard-1000009557527_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009557527-Yellow-Mustard-1000009557527_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009557527-Yellow-Mustard-1000009557527_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009557527-Yellow-Mustard-1000009557527_04-2100.jpg']"
+    },
+    {
+      "id": 8,
+      "brand": "BOSSINI",
+      "category": "Top",
+      "price": "649",
+      "discount": "50",
+      "fitting": "Slim Fit",
+      "color": "['red', 'black', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009199619-Red-Wine-1000009199619_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009199619-Red-Wine-1000009199619_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009199619-Red-Wine-1000009199619_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009199619-Red-Wine-1000009199619_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009199619-Red-Wine-1000009199619_05-2100.jpg']"
+    },
+    {
+      "id": 9,
+      "brand": "BOSSINI",
+      "category": "Top",
+      "price": "649",
+      "discount": "50",
+      "fitting": "Slim Fit",
+      "color": "['red', 'black', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009199619-Red-Wine-1000009199619_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009199619-Red-Wine-1000009199619_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009199619-Red-Wine-1000009199619_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009199619-Red-Wine-1000009199619_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009199619-Red-Wine-1000009199619_05-2100.jpg']"
+    }
+  ],
+  "Women-ethnic-wear": [
+    {
+      "id": 1,
+      "brand": "MELANGE",
+      "category": "Kurta",
+      "price": "899",
+      "discount": "40",
+      "fitting": "Straight Fit",
+      "color": "['blue', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009665966-Blue-Navy-1000009665966_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009665966-Blue-Navy-1000009665966_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009665966-Blue-Navy-1000009665966_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009665966-Blue-Navy-1000009665966_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009665966-Blue-Navy-1000009665966_05-2100.jpg']"
+    },
+    {
+      "id": 2,
+      "brand": "MELANGE",
+      "category": "Kurta",
+      "price": "1,019",
+      "discount": "40",
+      "fitting": "Straight Fit",
+      "color": "['red', 'black', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009666068-Red-Maroon-1000009666068_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009666068-Red-Maroon-1000009666068_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009666068-Red-Maroon-1000009666068_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009666068-Red-Maroon-1000009666068_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009666068-Red-Maroon-1000009666068_05-2100.jpg']"
+    },
+    {
+      "id": 3,
+      "brand": "COLOUR ME",
+      "category": "Tunic",
+      "price": "779",
+      "discount": "40",
+      "fitting": "Slim Fit",
+      "color": "['yellow', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008766071-Yellow-Mustard-1000008766071_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008766071-Yellow-Mustard-1000008766071_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008766071-Yellow-Mustard-1000008766071_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008766071-Yellow-Mustard-1000008766071_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008766071-Yellow-Mustard-1000008766071_05-2100.jpg']"
+    },
+    {
+      "id": 4,
+      "brand": "MELANGE",
+      "category": "Kurta",
+      "price": "1019",
+      "discount": "40",
+      "fitting": "Regular Fit",
+      "color": "['blue', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009666360-Blue-Indigo-1000009666360_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009666360-Blue-Indigo-1000009666360_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009666360-Blue-Indigo-1000009666360_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009666360-Blue-Indigo-1000009666360_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009666360-Blue-Indigo-1000009666360_05-2100.jpg']"
+    },
+    {
+      "id": 5,
+      "brand": "MELANGE",
+      "category": "Kurta",
+      "price": "1379",
+      "discount": "40",
+      "fitting": "Slim Fit",
+      "color": "['white', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009510721-White-OffWhite-1000009510721_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009510721-White-OffWhite-1000009510721_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009510721-White-OffWhite-1000009510721_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009510721-White-OffWhite-1000009510721_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009510721-White-OffWhite-1000009510721_06-2100.jpg','']"
+    },
+    {
+      "id": 6,
+      "brand": "MELANGE",
+      "category": "Kurta",
+      "price": "999",
+      "discount": "",
+      "fitting": "Slim Fit",
+      "color": "['white', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010024215-White-OffWhite-1000010024215_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010024215-White-OffWhite-1000010024215_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010024215-White-OffWhite-1000010024215_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010024215-White-OffWhite-1000010024215_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010024215-White-OffWhite-1000010024215_05-2100.jpg']"
+    },
+    {
+      "id": 7,
+      "brand": "MELANGE",
+      "category": "Kurta",
+      "price": "909",
+      "discount": "30",
+      "fitting": "Slim Fit",
+      "color": "['green', 'red', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009778157-Green-Green-1000009778157_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009778157-Green-Green-1000009778157_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009778157-Green-Green-1000009778157_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009778157-Green-Green-1000009778157_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009778157-Green-Green-1000009778157_05-2100.jpg']"
+    },
+    {
+      "id": 8,
+      "brand": "MELANGE",
+      "category": "Kurta",
+      "price": "909",
+      "discount": "30",
+      "fitting": "Slim Fit",
+      "color": "['coral', 'black', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009745117-Pink-Coral-1000009745117_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009745117-Pink-Coral-1000009745117_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009745117-Pink-Coral-1000009745117_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009745117-Pink-Coral-1000009745117_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009745117-Pink-Coral-1000009745117_05-2100.jpg']"
+    },
+    {
+      "id": 9,
+      "brand": "COLOUR ME",
+      "category": "Kurta",
+      "price": "1599",
+      "discount": "30",
+      "fitting": "Straight Fit",
+      "color": "['red', 'black', 'green']",
+      "sizes": "['s','m','l']",
+      "img": "['https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009766248-Red-Red-1000009766248_01-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009766248-Red-Red-1000009766248_02-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009766248-Red-Red-1000009766248_03-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009766248-Red-Red-1000009766248_04-2100.jpg','https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009766248-Red-Red-1000009766248_05-2100.jpg']"
+    }
+  ],
+  "Women-bottom-wear": [
+    {
+      "id": 1,
+      "brand": "GINGER",
+      "category": " Cropped Jeans",
+      "price": "699",
+      "discount": "40",
+      "fitting": " Slim Fit",
+      "color": ["Black", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008525354-Var7-Black-BLACK-1000008525354-Var7_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "GINGER",
+      "category": "Jeans",
+      "price": "899",
+      "discount": "40",
+      "fitting": "Straight Fit",
+      "color": ["white", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008207391-var7-White-1000008207391-var7_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "GINGER",
+      "category": "Jeans",
+      "price": "449",
+      "discount": "80",
+      "fitting": "Regular Fit",
+      "color": ["orange", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008415750-Orange-RUST-1000008415750_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "CODE",
+      "category": "Trousers",
+      "price": "1049",
+      "discount": "80",
+      "fitting": "Regular Fit",
+      "color": ["red", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009712694-Red-Wine-1000009712694_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "GINGER",
+      "category": "Sheath Dress",
+      "price": "1149",
+      "discount": "34",
+      "fitting": "Straight Fit",
+      "color": ["Green", "black", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009689368-Green-DarkGreen-1000009689368_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "FAME FOREVER",
+      "category": "Textured Round Neck Top",
+      "price": "734",
+      "discount": "40%",
+      "fitting": "Straight Fit",
+      "color": ["red", "black", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009776817-Var5-Green-Green-1000009776817-Var5_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "GINGER",
+      "category": " T-shirt",
+      "price": "499",
+      "discount": "40%",
+      "fitting": "Straight Fit",
+      "color": ["Pink", "black", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009095295-Pink-Pink-1000009095295_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "GINGER",
+      "category": " Bell Sleeves Top",
+      "price": "499",
+      "discount": "60%",
+      "fitting": "regular Fit",
+      "color": ["Black", "black", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009847757-Black-Black-1000009847757_01-2100.jpg"
+      ]
+    }
+  ],
+  "Mens-top-wear": [
+    {
+      "id": 1,
+      "brand": "POLO",
+      "category": "T-shirt",
+      "price": "849",
+      "discount": "15",
+      "fitting": "Regular Fit",
+      "color": ["black", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009811686-Black-Black-1000009811686_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "LOUIS PHILIPPE",
+      "category": "Casual Shirt",
+      "price": "2799",
+      "discount": "30",
+      "fitting": "Regular Fit",
+      "color": ["white", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010698237-White-1000010698237_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "UCLA",
+      "category": "T-Shirt",
+      "price": "899",
+      "discount": "25",
+      "fitting": "Regular Fit",
+      "color": ["green", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000005978744-30119-Green-Dark-Green-1000005978744-30119_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "POLO",
+      "category": "T-shirt",
+      "price": "1,199",
+      "discount": "40",
+      "fitting": "Regular Fit",
+      "color": ["orange", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010314170-Orange-Orange-1000010314170_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "FREE AUTHORITY",
+      "category": "T-shirt",
+      "price": "699",
+      "discount": "40",
+      "fitting": "Regular Fit",
+      "color": ["Blue", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010680110-Blue-1000010680110_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "INDIAN TERRAIN ",
+      "category": "T-shirt",
+      "price": "699",
+      "discount": "40",
+      "fitting": "Regular Fit",
+      "color": ["Black", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009010365-Var8-Blue-Navy-1000009010365-Var8_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "INDIAN TERRAIN ",
+      "category": "T-shirt",
+      "price": "1399",
+      "discount": "40",
+      "fitting": "Regular Fit",
+      "color": ["Black", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009010365-Var8-Blue-Navy-1000009010365-Var8_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "CODE Textured ",
+      "category": "Short Sleeves Shirt",
+      "price": "899",
+      "discount": "40",
+      "fitting": "Regular Fit",
+      "color": ["yellow", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008819914-Var11-Yellow-1000008819914-Var11_01-2100.jpg"
+      ]
+    }
+  ],
+  "Mens-bottom-wear": [
+    {
+      "id": 1,
+      "brand": "WRANGLER",
+      "category": "Jeans",
+      "price": "2,096",
+      "discount": "30",
+      "fitting": "Regular Fit",
+      "color": ["white", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009038438-Blue-SuperStone-1000009038438_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "LOUIS PHILIPPE ",
+      "category": "Trousers",
+      "price": "1,799",
+      "discount": "10",
+      "fitting": "Regular Fit",
+      "color": ["blue", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010148219-Blue-Blue-1000010148219_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "CODE",
+      "category": "Trousers",
+      "price": "1,104",
+      "discount": "15",
+      "fitting": "Regular Fit",
+      "color": ["yellow", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009801789-Beige-LightKhaki-1000009801789_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "KAPPA",
+      "category": "Track Pants",
+      "price": "849",
+      "discount": "15",
+      "fitting": "Regular Fit",
+      "color": ["black", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009813654-Blue-Navy-1000009813654_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "ARROW SPORT",
+      "category": "Trousers",
+      "price": "2699",
+      "discount": "35",
+      "fitting": "Solid Slim Straight Fit",
+      "color": ["black", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010665097-Blue-1000010665097_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "CODE Men",
+      "category": "Trousers",
+      "price": "849",
+      "discount": "40",
+      "fitting": "Solid Slim Fit Casual ",
+      "color": ["black", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009025123-Grey-Grey-1000009025123_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "INDIAN TERRAIN",
+      "category": "Trousers",
+      "price": "2299",
+      "discount": "40",
+      "fitting": "Solid Slim Fit Casual ",
+      "color": ["Beige", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009245402-Beige-Beige-1000009245402_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "UCLA ",
+      "category": "Trousers",
+      "price": "2299",
+      "discount": "20",
+      "fitting": "Elasticated Track Pants ",
+      "color": ["Grey", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009245402-Beige-Beige-1000009245402_01-2100.jpg"
+      ]
+    }
+  ],
+  "Mens-active-wear": [
+    {
+      "id": 1,
+      "brand": "KAPPA ",
+      "category": "Shorts",
+      "price": "699",
+      "discount": "30",
+      "fitting": "Regular Fit",
+      "color": ["white", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009812654-Var7-White-White-1000009812654-Var7_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "KAPPA",
+      "category": "Track Pants",
+      "price": "849",
+      "discount": "30",
+      "fitting": "Regular Fit",
+      "color": ["green", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009813654-Var9-Green-Olive-1000009813654-Var9_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "PUMA",
+      "category": "Track Pants",
+      "price": "2,499",
+      "discount": "20",
+      "fitting": "Regular Fit",
+      "color": ["blue", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010653054-Blue-1000010653054_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "KAPPA",
+      "category": "Shorts",
+      "price": "849",
+      "discount": "15",
+      "fitting": "Regular Fit",
+      "color": ["white", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010194961-White-White-1000010194961_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "KAPPA",
+      "category": "Shorts",
+      "price": "699",
+      "discount": "25",
+      "fitting": "Regular Fit",
+      "color": ["Blue", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000003426336-Blue-1000003426336-140821_01-2100.jpg "
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "KAPPA",
+      "category": " Neck T-shirt",
+      "price": "699",
+      "discount": "25",
+      "fitting": "Regular Fit",
+      "color": ["Blue", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000007642278-Var11-Grey-GREY-1000007642278-Var11_01-2100.jpg "
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "KAPPA",
+      "category": "Sleeves T-shir",
+      "price": "599",
+      "discount": "65",
+      "fitting": "Regular Fit",
+      "color": ["Blue", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009813052-Var7-Blue-Navy-1000009813052-Var7_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "KAPPA",
+      "category": "Sleeves T-shir",
+      "price": "899",
+      "discount": "53",
+      "fitting": "Regular Fit",
+      "color": ["Blue", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008678762-White-White-1000008678762_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "KAPPA ",
+      "category": "Shorts",
+      "price": "699",
+      "discount": "30",
+      "fitting": "Regular Fit",
+      "color": ["white", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009812654-Var7-White-White-1000009812654-Var7_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "KAPPA",
+      "category": "Track Pants",
+      "price": "849",
+      "discount": "30",
+      "fitting": "Regular Fit",
+      "color": ["green", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009813654-Var9-Green-Olive-1000009813654-Var9_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "PUMA",
+      "category": "Track Pants",
+      "price": "2,499",
+      "discount": "20",
+      "fitting": "Regular Fit",
+      "color": ["blue", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010653054-Blue-1000010653054_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "KAPPA",
+      "category": "Shorts",
+      "price": "849",
+      "discount": "15",
+      "fitting": "Regular Fit",
+      "color": ["white", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010194961-White-White-1000010194961_01-2100.jpg"
+      ]
+    }
+  ],
+  "kidsClothing": [
+    {
+      "id": 1,
+      "brand": "FAME FOREVER",
+      "category": "top",
+      "price": "299",
+      "discount": "50",
+      "fitting": "Regular Fit",
+      "color": ["blue", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009019590-Green-GREEN-1000009019590_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "JUNIORS ",
+      "category": "Track Pants",
+      "price": "399",
+      "discount": "50",
+      "fitting": "Regular Fit",
+      "color": ["brown", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009313523-Brown-BURGANDY-1000009313523_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "FAME FOREVER",
+      "category": "Dress",
+      "price": "700",
+      "discount": "50",
+      "fitting": "Regular Fit",
+      "color": ["white", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009827879-Multicolour-1000009827879_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "FAME FOREVER ",
+      "category": "Dress",
+      "price": "160",
+      "discount": "20",
+      "fitting": "Regular Fit",
+      "color": ["wheat", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008571264-Orange-Tangerine-1000008571264_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "JUNIORS ",
+      "category": "Track Pants",
+      "price": "399",
+      "discount": "50",
+      "fitting": "Regular Fit",
+      "color": ["black", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009313523-Black-BLACK-1000009313523_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "ADIDAS ",
+      "category": "T-shirt",
+      "price": "899",
+      "discount": "50",
+      "fitting": "Regular Fit",
+      "color": ["red", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008771226-Red-Red-1000008771226_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "ADIDAS",
+      "category": "T-shirt",
+      "price": "399",
+      "discount": "30",
+      "fitting": "Regular Fit",
+      "color": ["white", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009751771-Grey-ECRU-1000009751771_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "ADIDAS",
+      "category": "Shirt",
+      "price": "599",
+      "discount": "15",
+      "fitting": "Regular Fit",
+      "color": ["blue", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009354791-Blue-Mediumwash-1000009354791_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "ALLEN SOLLY",
+      "category": "Shirt",
+      "price": "466",
+      "discount": "25",
+      "fitting": "Regular Fit",
+      "color": ["white", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010142581-Multicolour-1000010142581_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "ALLEN SOLLY",
+      "category": "T-shirt",
+      "price": "399",
+      "discount": "30",
+      "fitting": "Regular Fit",
+      "color": ["pink", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010351811-Pink-Pink-1000010351811_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "JUNIORS",
+      "category": "Jeans",
+      "price": "654",
+      "discount": "25",
+      "fitting": "Regular Fit",
+      "color": ["blue", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009313251-Blue-Mediumwash-1000009313251_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "JUNIORS",
+      "category": "Track Pants",
+      "price": "499",
+      "discount": "30",
+      "fitting": "Regular Fit",
+      "color": ["black", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009313523-Black-BLACK-1000009313523_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "brand": "JUNIORS",
+      "category": "Placket",
+      "price": "299",
+      "discount": "35",
+      "fitting": "Regular Fit",
+      "color": ["yellow", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008544329-Yellow-1000008544329_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "brand": "ALLEN SOLLY",
+      "category": "Leggings",
+      "price": "299",
+      "discount": "20",
+      "fitting": "Regular Fit",
+      "color": ["red", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000009523434-Red-Red-1000009523434_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "brand": "FS MINI",
+      "category": "T-shirt",
+      "price": "254",
+      "discount": "25",
+      "fitting": "Regular Fit",
+      "color": ["orange", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010351805-Pink-Peach-1000010351805_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "brand": "FS MINI",
+      "category": "T-shirt",
+      "price": "354",
+      "discount": "35",
+      "fitting": "Regular Fit",
+      "color": ["blue", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010351757-Green-Green-1000010351757_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "brand": "JUNIORS",
+      "category": "T-shirt",
+      "price": "300",
+      "discount": "35",
+      "fitting": "Regular Fit",
+      "color": ["green", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000008902901-Multicolour-1000008902901_01-2100.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "brand": "UNITED",
+      "category": "Shirt",
+      "price": "654",
+      "discount": "25",
+      "fitting": "Regular Fit",
+      "color": ["pink", "red", "green"],
+      "sizes": ["s", "m", "l"],
+      "img": [
+        "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010224151-Pink-Pink-1000010224151_01-2100.jpg"
+      ]
+    }
+  ]
+}
