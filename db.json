@@ -2130,5 +2130,23 @@
       ]
     }
   ],
-  "CartPage": []
+  "CartPage": [],
+  "AdminSide": [
+    {
+      "id": 1,
+      "Brand": "Polo",
+      "Category": "Shirt",
+      "Price": 1100,
+      "Discount": 100,
+      "img": "https://lmsin.net/cdn-cgi/image/h=1200,w=1200,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010224151-Pink-Pink-1000010224151_01-2100.jpg"
+    }
+  ],
+  "UserData": [
+    {
+      "id": 1,
+      "Name": "Admin",
+      "Email": "admin@gmail.com",
+      "Number": 1234567890
+    }
+  ]
 }
