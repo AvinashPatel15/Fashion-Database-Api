@@ -4,7 +4,7 @@ A template to deploy [JSON Server](https://github.com/typicode/json-server) to [
 
 Demo from this repository: 
 
-1. https://json-server-in.vercel.app
+1. https://fashion-database-api.vercel.app/
 2. https://json-server-in.vercel.app/api/posts
 
 ### How to use
